@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\eduhub\\eduhub\\eduhub\\eduhub.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\IN4211-ch02-solid-patterns-git\\2026-IN421107-PhatTrienPhanMemHuongDoiTuong\\CH01\\eduhub\\eduhub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\eduhub\\eduhub\\eduhub\\eduhub.csproj": {
+    "C:\\Users\\Admin\\Downloads\\IN4211-ch02-solid-patterns-git\\2026-IN421107-PhatTrienPhanMemHuongDoiTuong\\CH01\\eduhub\\eduhub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\eduhub\\eduhub\\eduhub\\eduhub.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\IN4211-ch02-solid-patterns-git\\2026-IN421107-PhatTrienPhanMemHuongDoiTuong\\CH01\\eduhub\\eduhub.csproj",
         "projectName": "eduhub",
-        "projectPath": "C:\\Users\\Admin\\Documents\\eduhub\\eduhub\\eduhub\\eduhub.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\IN4211-ch02-solid-patterns-git\\2026-IN421107-PhatTrienPhanMemHuongDoiTuong\\CH01\\eduhub\\eduhub.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\eduhub\\eduhub\\eduhub\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\IN4211-ch02-solid-patterns-git\\2026-IN421107-PhatTrienPhanMemHuongDoiTuong\\CH01\\eduhub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
